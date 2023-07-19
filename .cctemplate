@@ -3,6 +3,9 @@
       "version":"1"
   },
   "templates":[
-    "path":"/java11-app-engine-standard-sample"
+    {
+      "path":"/",
+      "name":"java11-app-engine-standard-sample"
+    }
   ]
 }
