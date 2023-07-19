@@ -1,0 +1,8 @@
+{
+  "metadata":{
+      "version":"1"
+  },
+  "templates":[
+    "path":"/java11-app-engine-standard-sample"
+  ]
+}
