@@ -1,0 +1,5 @@
+
+# [START gae_java11_servlet_yaml]
+runtime: java11
+entrypoint: 'java -cp "*" com.example.appengine.Main 1.0-SNAPSHOT.war'
+# [END gae_java11_servlet_yaml]
